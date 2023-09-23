@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNdYBYcP7j1scky9iQpTFrtkH27WSfEa54FQ",
+        "name": "Pent",
+        "description": "Men Striped Polo Neck White Jeans",
+        "gender": "male",
+        "category": "Jeans",
+        "price": 1200,
+        "id": 2
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR0rv704TEMBDsENU20XulOeNBBGFOM7zDwA",
+        "name": "Jaggu",
+        "description": "Men Striped Polo Neck White Pent",
+        "gender": "male",
+        "category": "Jeans",
+        "price": 1500,
+        "id": 3
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNdYBYcP7j1scky9iQpTFrtkH27WSfEa54FQ",
+        "name": "Pent",
+        "description": "Men Striped Polo Neck White Jeans",
+        "gender": "male",
+        "category": "Jeans",
+        "price": 1200,
+        "id": 4
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR0rv704TEMBDsENU20XulOeNBBGFOM7zDwA",
+        "name": "Jaggu",
+        "description": "Men Striped Polo Neck White Pent",
+        "gender": "male",
+        "category": "Jeans",
+        "price": 1500,
+        "id": 5
+      }
+    ]
+  }
